@@ -2,7 +2,7 @@
   "name": "node-express-app",
   "description": "A super simple web app with Node.js and the Express web framework",
   "version": "1.0.0",
-  "author": "Denise Case",
+  "author": "chetan kudaravalli",
   "bugs": {
     "url": "https://github.com/denisecase/node-express-app/issues"
   },
